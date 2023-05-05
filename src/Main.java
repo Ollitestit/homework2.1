@@ -5,7 +5,6 @@ public class Main {
         int ticketPrice = 13676;
         int step = 20;
         int bonus = ticketPrice / step;
-        System.out.println("Стоимость билета = " + ticketPrice);
         System.out.println("Бонусные мили = " + bonus);
     }
 
